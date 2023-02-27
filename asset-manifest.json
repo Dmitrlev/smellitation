@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/smellitation/static/css/main.20a23b6f.css",
+    "main.js": "/smellitation/static/js/main.af9c0f92.js",
+    "static/media/logo.png": "/smellitation/static/media/logo.71099204e89deffe6f96.png",
+    "static/media/Black-14.png": "/smellitation/static/media/Black-14.51febfe0e116d98be65f.png",
+    "static/media/Black-11.png": "/smellitation/static/media/Black-11.20576bd2adb59b8e5d21.png",
+    "static/media/Black-17.png": "/smellitation/static/media/Black-17.5eb95658f316d1395ea4.png",
+    "static/media/Black-16.png": "/smellitation/static/media/Black-16.7889c1d263aac81cab57.png",
+    "static/media/Black-19.png": "/smellitation/static/media/Black-19.5f59042d3ca48b9f10a2.png",
+    "static/media/Black-12.png": "/smellitation/static/media/Black-12.29714f16c32158c74092.png",
+    "static/media/Black-13.png": "/smellitation/static/media/Black-13.d489619d0de3bc45ae47.png",
+    "static/media/Black-15.png": "/smellitation/static/media/Black-15.25d4bf2228a674a2c97c.png",
+    "static/media/Black-18.png": "/smellitation/static/media/Black-18.3c19b35ae07d0c4a820e.png",
+    "static/media/Black-20.png": "/smellitation/static/media/Black-20.7d5c0b332ce94d356401.png",
+    "index.html": "/smellitation/index.html",
+    "main.20a23b6f.css.map": "/smellitation/static/css/main.20a23b6f.css.map",
+    "main.af9c0f92.js.map": "/smellitation/static/js/main.af9c0f92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20a23b6f.css",
+    "static/js/main.af9c0f92.js"
+  ]
+}
