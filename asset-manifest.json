@@ -1,11 +1,9 @@
 {
   "files": {
-    "main.css": "/smellitation/static/css/main.32738f3a.css",
-    "main.js": "/smellitation/static/js/main.5fde60b7.js",
+    "main.css": "/smellitation/static/css/main.ca8b0341.css",
+    "main.js": "/smellitation/static/js/main.9f09458c.js",
     "static/media/logo.png": "/smellitation/static/media/logo.71099204e89deffe6f96.png",
-    "static/media/love.png": "/smellitation/static/media/love.75178e33c280203ba54b.png",
     "static/media/basket_add.png": "/smellitation/static/media/basket_add.430d3e6a6afb582893d3.png",
-    "static/media/basket.png": "/smellitation/static/media/basket.b40bfea6ca29a801ebb2.png",
     "static/media/Akrobatextrabold.ttf": "/smellitation/static/media/Akrobatextrabold.25c1f7be17dc1cfa9df1.ttf",
     "static/media/Akrobatbold.ttf": "/smellitation/static/media/Akrobatbold.a8597354a75bd4e81db6.ttf",
     "static/media/Akrobatblack.ttf": "/smellitation/static/media/Akrobatblack.8b5b5ee8951c623b3169.ttf",
@@ -15,8 +13,6 @@
     "static/media/Akrobat.ttf": "/smellitation/static/media/Akrobat.21655d76b2f304ab5021.ttf",
     "static/media/Akrobatthin.ttf": "/smellitation/static/media/Akrobatthin.56edd488db4b43741e3b.ttf",
     "static/media/Black-14.png": "/smellitation/static/media/Black-14.51febfe0e116d98be65f.png",
-    "static/media/search.png": "/smellitation/static/media/search.71d01b16e4a0a3ea9e10.png",
-    "static/media/profile.png": "/smellitation/static/media/profile.474288b438bb6ca28701.png",
     "static/media/Black-11.png": "/smellitation/static/media/Black-11.20576bd2adb59b8e5d21.png",
     "static/media/back.png": "/smellitation/static/media/back.2bfcaaa88df29d755af5.png",
     "static/media/Black-17.png": "/smellitation/static/media/Black-17.5eb95658f316d1395ea4.png",
@@ -42,13 +38,14 @@
     "static/media/Akrobatlight.woff2": "/smellitation/static/media/Akrobatlight.9c7d1193c05129afbc6b.woff2",
     "static/media/Akrobat.woff2": "/smellitation/static/media/Akrobat.10ad7dd97524355737ae.woff2",
     "static/media/Akrobatthin.woff2": "/smellitation/static/media/Akrobatthin.d963ad67c8cd365f4308.woff2",
+    "static/media/orders.png": "/smellitation/static/media/orders.22ddc044cd1c1db3db68.png",
     "static/media/Black-20.png": "/smellitation/static/media/Black-20.7d5c0b332ce94d356401.png",
     "index.html": "/smellitation/index.html",
-    "main.32738f3a.css.map": "/smellitation/static/css/main.32738f3a.css.map",
-    "main.5fde60b7.js.map": "/smellitation/static/js/main.5fde60b7.js.map"
+    "main.ca8b0341.css.map": "/smellitation/static/css/main.ca8b0341.css.map",
+    "main.9f09458c.js.map": "/smellitation/static/js/main.9f09458c.js.map"
   },
   "entrypoints": [
-    "static/css/main.32738f3a.css",
-    "static/js/main.5fde60b7.js"
+    "static/css/main.ca8b0341.css",
+    "static/js/main.9f09458c.js"
   ]
 }
