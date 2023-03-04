@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/smellitation/static/css/main.6c1cd95e.css",
-    "main.js": "/smellitation/static/js/main.37af1e91.js",
+    "main.css": "/smellitation/static/css/main.ab4479c7.css",
+    "main.js": "/smellitation/static/js/main.6a612b46.js",
     "static/media/logo.png": "/smellitation/static/media/logo.71099204e89deffe6f96.png",
+    "static/media/love.png": "/smellitation/static/media/love.75178e33c280203ba54b.png",
     "static/media/basket_add.png": "/smellitation/static/media/basket_add.430d3e6a6afb582893d3.png",
+    "static/media/basket.png": "/smellitation/static/media/basket.b40bfea6ca29a801ebb2.png",
     "static/media/Akrobatextrabold.ttf": "/smellitation/static/media/Akrobatextrabold.25c1f7be17dc1cfa9df1.ttf",
     "static/media/Akrobatbold.ttf": "/smellitation/static/media/Akrobatbold.a8597354a75bd4e81db6.ttf",
     "static/media/Akrobatblack.ttf": "/smellitation/static/media/Akrobatblack.8b5b5ee8951c623b3169.ttf",
@@ -13,8 +15,9 @@
     "static/media/Akrobat.ttf": "/smellitation/static/media/Akrobat.21655d76b2f304ab5021.ttf",
     "static/media/Akrobatthin.ttf": "/smellitation/static/media/Akrobatthin.56edd488db4b43741e3b.ttf",
     "static/media/Black-14.png": "/smellitation/static/media/Black-14.51febfe0e116d98be65f.png",
+    "static/media/search.png": "/smellitation/static/media/search.71d01b16e4a0a3ea9e10.png",
+    "static/media/profile.png": "/smellitation/static/media/profile.474288b438bb6ca28701.png",
     "static/media/Black-11.png": "/smellitation/static/media/Black-11.20576bd2adb59b8e5d21.png",
-    "static/media/search.png": "/smellitation/static/media/search.47f8e1b95ad622311263.png",
     "static/media/Black-17.png": "/smellitation/static/media/Black-17.5eb95658f316d1395ea4.png",
     "static/media/Black-16.png": "/smellitation/static/media/Black-16.7889c1d263aac81cab57.png",
     "static/media/Akrobatextrabold.woff": "/smellitation/static/media/Akrobatextrabold.e98dabe5edf718df245d.woff",
@@ -29,7 +32,6 @@
     "static/media/Akrobatthin.woff": "/smellitation/static/media/Akrobatthin.06dc4ce059b4004b794f.woff",
     "static/media/Black-13.png": "/smellitation/static/media/Black-13.d489619d0de3bc45ae47.png",
     "static/media/Black-15.png": "/smellitation/static/media/Black-15.25d4bf2228a674a2c97c.png",
-    "static/media/profile.png": "/smellitation/static/media/profile.771a622f26cf8feeacf2.png",
     "static/media/Black-18.png": "/smellitation/static/media/Black-18.3c19b35ae07d0c4a820e.png",
     "static/media/Akrobatextrabold.woff2": "/smellitation/static/media/Akrobatextrabold.e5f0efedd4953cab4b69.woff2",
     "static/media/Akrobatbold.woff2": "/smellitation/static/media/Akrobatbold.154151bf2626ad4433dc.woff2",
@@ -41,11 +43,11 @@
     "static/media/Akrobatthin.woff2": "/smellitation/static/media/Akrobatthin.d963ad67c8cd365f4308.woff2",
     "static/media/Black-20.png": "/smellitation/static/media/Black-20.7d5c0b332ce94d356401.png",
     "index.html": "/smellitation/index.html",
-    "main.6c1cd95e.css.map": "/smellitation/static/css/main.6c1cd95e.css.map",
-    "main.37af1e91.js.map": "/smellitation/static/js/main.37af1e91.js.map"
+    "main.ab4479c7.css.map": "/smellitation/static/css/main.ab4479c7.css.map",
+    "main.6a612b46.js.map": "/smellitation/static/js/main.6a612b46.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c1cd95e.css",
-    "static/js/main.37af1e91.js"
+    "static/css/main.ab4479c7.css",
+    "static/js/main.6a612b46.js"
   ]
 }
