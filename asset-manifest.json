@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/smellitation/static/css/main.9e6f5a81.css",
-    "main.js": "/smellitation/static/js/main.7da73cd4.js",
+    "main.css": "/smellitation/static/css/main.64010505.css",
+    "main.js": "/smellitation/static/js/main.4d7a60ba.js",
     "static/media/logo.png": "/smellitation/static/media/logo.71099204e89deffe6f96.png",
     "static/media/basket_add.png": "/smellitation/static/media/basket_add.430d3e6a6afb582893d3.png",
     "static/media/Akrobatextrabold.ttf": "/smellitation/static/media/Akrobatextrabold.25c1f7be17dc1cfa9df1.ttf",
@@ -42,11 +42,11 @@
     "static/media/orders.png": "/smellitation/static/media/orders.22ddc044cd1c1db3db68.png",
     "static/media/Black-20.png": "/smellitation/static/media/Black-20.7d5c0b332ce94d356401.png",
     "index.html": "/smellitation/index.html",
-    "main.9e6f5a81.css.map": "/smellitation/static/css/main.9e6f5a81.css.map",
-    "main.7da73cd4.js.map": "/smellitation/static/js/main.7da73cd4.js.map"
+    "main.64010505.css.map": "/smellitation/static/css/main.64010505.css.map",
+    "main.4d7a60ba.js.map": "/smellitation/static/js/main.4d7a60ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e6f5a81.css",
-    "static/js/main.7da73cd4.js"
+    "static/css/main.64010505.css",
+    "static/js/main.4d7a60ba.js"
   ]
 }
