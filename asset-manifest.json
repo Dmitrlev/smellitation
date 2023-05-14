@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/smellitation/static/css/main.6bbc6c03.css",
-    "main.js": "/smellitation/static/js/main.bc510aaf.js",
+    "main.js": "/smellitation/static/js/main.44f3eb84.js",
     "static/media/logo.png": "/smellitation/static/media/logo.71099204e89deffe6f96.png",
     "static/media/basket_add.png": "/smellitation/static/media/basket_add.430d3e6a6afb582893d3.png",
     "static/media/Caviar_Dreams.ttf": "/smellitation/static/media/Caviar_Dreams.174b0a13f7e49c169450.ttf",
@@ -20,10 +20,10 @@
     "static/media/Black-20.png": "/smellitation/static/media/Black-20.7d5c0b332ce94d356401.png",
     "index.html": "/smellitation/index.html",
     "main.6bbc6c03.css.map": "/smellitation/static/css/main.6bbc6c03.css.map",
-    "main.bc510aaf.js.map": "/smellitation/static/js/main.bc510aaf.js.map"
+    "main.44f3eb84.js.map": "/smellitation/static/js/main.44f3eb84.js.map"
   },
   "entrypoints": [
     "static/css/main.6bbc6c03.css",
-    "static/js/main.bc510aaf.js"
+    "static/js/main.44f3eb84.js"
   ]
 }
